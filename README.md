@@ -1,4 +1,4 @@
-# เทมเพลตวิศวกรรมบริบท (Context Engineering Template - ฉบับ Gemini)
+# Context Engineering Template (Gemini Edition)
 เทมเพลตฉบับสมบูรณ์สำหรับเริ่มต้นใช้งานวิศวกรรมบริบท (Context Engineering) ซึ่งเป็นศาสตร์แห่งการสร้างบริบทสำหรับผู้ช่วยเขียนโค้ด AI เพื่อให้ AI มีข้อมูลที่จำเป็นในการทำงานให้สำเร็จลุล่วงตั้งแต่ต้นจนจบ
 
 **วิศวกรรมบริบท (Context Engineering) ดีกว่า Prompt Engineering 10 เท่า และดีกว่าการเขียนโค้ดตามความรู้สึก (Vibe Coding) 100 เท่า**
